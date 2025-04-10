@@ -26,10 +26,10 @@ HOW TO RUN:
 
 2. Directory Structure:
    YOUR_BASE_PATH/
-├── DATASET/           # Folder with input images
-├── HELMET/            # Will be auto-created for classified helmet images
-├── NO_HELMET/         # Will be auto-created for classified no-helmet images
-└── main.py
+    ├── DATASET/           # Folder with input images
+    ├── HELMET/            # Will be auto-created for classified helmet images
+    ├── NO_HELMET/         # Will be auto-created for classified no-helmet images
+    └── main.py
 
 3. Run the Script:
    python main.py
