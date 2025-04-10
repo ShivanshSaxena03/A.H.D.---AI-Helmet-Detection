@@ -26,17 +26,21 @@ HOW TO RUN:
 
 2. Directory Structure:
    YOUR_BASE_PATH/
-    ├── DATASET/           # Folder with input images
-    ├── HELMET/            # Will be auto-created for classified helmet images
-    ├── NO_HELMET/         # Will be auto-created for classified no-helmet images
-    └── main.py
 
-3. Run the Script:
+   DATASET/
+
+   HELMET/
+
+   NO_HELMET/
+
+   main.py
+   
+4. Run the Script:
    python main.py
 
-4. User Input: You'll be prompted to enter the aspirant’s name via keyboard.
+5. User Input: You'll be prompted to enter the aspirant’s name via keyboard.
 
-5. Output:
+6. Output:
   output_greeting.png → shows the start of the process
 
   output_summary.png → summarises the result
