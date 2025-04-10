@@ -41,8 +41,8 @@ HOW TO RUN:
 5. User Input: You'll be prompted to enter the aspirant’s name via keyboard.
 
 6. Output:
-  output_greeting.png → shows the start of the process
-
-  output_summary.png → summarises the result
-
-  Sorted images go into HELMET/ and NO_HELMET/ folders
+    output_greeting.png → shows the start of the process
+  
+    output_summary.png → summarises the result
+  
+    Sorted images go into HELMET/ and NO_HELMET/ folders
